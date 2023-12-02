@@ -1,6 +1,6 @@
 {
-      "name": "𝄟ॐ❥𝗩𝗜𝗣🍷𝗥𝗢𝗕𝗢𝗧⏤͟͟͞❥͜͡𝄟⃟🥀",
-      "description": "𝐓𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
+      "name": "𝄟ॐ❥𝗗𝗫 𝗠𝗡𝗚𝗥𝗢𝗕𝗢𝗧 𝗕𝗔𝗦𝗧𝄟⃟🥀",
+      "description": "𝐃𝐗 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
       "logo": "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+   "repository": "https://github.com/ITS-LUCKY-BOY/DX-MNGBOT",
    "stack": "heroku-22",
    "addons": [
       {
@@ -45,7 +45,7 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": ""
+         "value": "-1001989708830"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -55,17 +55,17 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1808943146"
+         "value": ""
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg"
+         "value": "https://te.legra.ph/file/e42d8c1d79bf470b8cfed.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "TG_FRIENDSS"
+         "value": "DXINFO143"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
