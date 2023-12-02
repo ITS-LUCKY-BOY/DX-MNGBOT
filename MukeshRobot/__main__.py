@@ -444,53 +444,53 @@ def Music_about_callback(update: Update, context: CallbackContext):
                     [
                         
                 InlineKeyboardButton(
-                    text="🍁𝐀𝐝𝐦𝐢𝐧🍁",
+                    text="💘𝐀𝐝𝐦𝐢𝐧💘",
                     callback_data="Music_1",
                 ),
                 InlineKeyboardButton(
-                    text="🔺𝐚𝐮𝐭𝐡🔺",
+                    text="💘𝐚𝐮𝐭𝐡💘",
                     callback_data="Music_2",
                 ),
             
                 InlineKeyboardButton(
-                    text="♨️𝐁𝐥𝐚𝐜𝐤♨️",
+                    text="💘𝐁𝐥𝐚𝐜𝐤💘",
                     callback_data="Music_3",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="📣𝐆𝐜𝐚𝐬𝐭📣",
+                    text="💘𝐆𝐜𝐚𝐬𝐭💘",
                     callback_data="Music_4",
                 ),
                 InlineKeyboardButton(
-                    text="🚫𝐆𝐛𝐚𝐧🚫",
+                    text="💘𝐆𝐛𝐚𝐧💘",
                     callback_data="Music_5",
                 ),
                 InlineKeyboardButton(
-                    text="🍷𝐋𝐲𝐫𝐢𝐜𝐬🍷",
+                    text="💘𝐋𝐲𝐫𝐢𝐜𝐬💘",
                     callback_data="Music_6",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="🎙️𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎙️",
+                    text="💘𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭💘",
                     callback_data="Music_7",
                 ),
                 InlineKeyboardButton(
-                    text="🎸ƭ𝐕𝐚𝐢𝐜𝐞-𝐂𝐡𝐚𝐭🎸",
+                    text="💘𝐕𝐚𝐢𝐜𝐞-𝐂𝐡𝐚𝐭💘",
                     callback_data="Music_8",
                 ),
             ],
             [
            
                 InlineKeyboardButton(
-                    text="🕹️𝐏𝐥𝐚𝐲🕹️",
+                    text="💘𝐏𝐥𝐚𝐲💘",
                     callback_data="Music_9",
                 ),
             
             
                 InlineKeyboardButton(
-                    text="🍸𝐬𝐮𝐝𝐨🍸",
+                    text="💘𝐬𝐮𝐝𝐨💘",
                     callback_data="Music_10",
                 ),
             ],
