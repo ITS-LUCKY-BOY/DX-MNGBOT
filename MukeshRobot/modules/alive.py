@@ -30,7 +30,7 @@ Mukesh = [
     ],
 ]
 
-lol = "https://te.legra.ph/file/cb7ffcb53e7380c522cd3.jpg"
+lol = "https://te.legra.ph/file/2f3463806b4966fcb5a5d.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
@@ -57,7 +57,7 @@ async def restart(client, m: Message):
         caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝗟𝗨𝗖𝗞𝗬 𝗥𝗢𝗕𝗢𝗧](f"t.me/{BOT_USERNAME}")』🎄**
    ╔═════ஜ۩۞۩ஜ════╗
 
- ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝐃𝐗-𝐋𝐔𝐂𝐊𝐘](https://t.me/DX_LUCKY_143)♨️
+  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝐃𝐗-𝐋𝐔𝐂𝐊𝐘](https://t.me/DX_LUCKY_143)♨️
 
    ╚═════ஜ۩۞۩ஜ════╝""",
         reply_markup=InlineKeyboardMarkup(Mukesh),
