@@ -39,7 +39,7 @@ async def bug(_, msg: Message):
     datetimes_fmt = "%d-%m-%Y"
     datetimes = datetime.utcnow().strftime(datetimes_fmt)
 
-    thumb = "https://graph.org/file/2394ae3aefe35372637bb.mp4"
+    thumb = "https://te.legra.ph/file/9c0294c735b5724e45654.mp4"
 
     bug_report = f"""
 **#ʙᴜɢ : ** **tg://user?id={owner_id}**
@@ -116,6 +116,6 @@ __help__ = """
 *ғᴏʀ ʀᴇᴩᴏʀᴛɪɴɢ ᴀ ʙᴜɢ ɪɴ  ᴀᴅᴠᴇɴᴛᴜʀᴇ ✘ ʀᴏʙᴏᴛ*
  ❍ /bug *:* ᴛᴏ ʀᴇᴩᴏʀᴛ ᴀ ʙᴜɢ ᴀᴛ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ.
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+☆............𝙱𝚈 » [𝐃𝐗-𝐋𝐔𝐂𝐊𝐘](https://t.me/DX_LUCKY_143)............☆
 """
 __mod_name__ = "♨️Bᴜɢ♨️"
