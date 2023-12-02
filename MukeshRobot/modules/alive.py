@@ -54,7 +54,7 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.8)
     await m.reply_photo(
         lol,
-        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝗟𝗨𝗖𝗞𝗬 𝗥𝗢𝗕𝗢𝗧](f"t.me/{BOT_USERNAME}")』🎄**
+        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝗗𝗫 𝗥𝗢𝗕𝗢𝗧](f"t.me/{BOT_USERNAME}")』🎄**
    ╔═════ஜ۩۞۩ஜ════╗
 
   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝐃𝐗-𝐋𝐔𝐂𝐊𝐘](https://t.me/DX_LUCKY_143)♨️
