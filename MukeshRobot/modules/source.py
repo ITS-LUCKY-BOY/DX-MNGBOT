@@ -30,7 +30,7 @@ async def repo(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "💓ᴏᴡɴᴇʀ💓",f"tg://user?id={OWNER_ID}"
+                        "💓ᴏᴡɴᴇʀ💓",f"https://t.me/DX_LUCKY"
                     ),
                     InlineKeyboardButton(
                         "💓ʀᴇᴘᴏ💓",
