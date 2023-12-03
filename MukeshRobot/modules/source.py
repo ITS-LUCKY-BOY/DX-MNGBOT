@@ -30,8 +30,7 @@ async def repo(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "💓ᴏᴡɴᴇʀ💓",f"https://t.me/DX_LUCKY"
-                    ),
+                        "💓ᴏᴡɴᴇʀ💓",f"https://t.me/DX_LUCKY_143"),
                     InlineKeyboardButton(
                         "💓ʀᴇᴘᴏ💓",
                         url="https://github.com/ITS-LUCKY-BOY/DX-MNGBOT",
